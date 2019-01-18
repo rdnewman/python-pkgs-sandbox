@@ -3,11 +3,12 @@ url = "https://pypi.python.org/simple"
 verify_ssl = true
 name = "pypi"
 
+
 [packages]
-basicmath = {editable = true, path = "./../lib/basicmath"}
 pytest = "*"
 
 [dev-packages]
+
 
 [requires]
 python_version = "3.7"

@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "abec9ff3df7a3ce73aaf4ad18836d791a5036417c2cdb2e49e08ff204f1ec164"
+            "sha256": "600ad4b607bf6f99b7d951a319b0f35df39d6ca027fd7c51c977cdde409758f9"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -29,10 +29,6 @@
                 "sha256:ca4be454458f9dec299268d472aaa5a11f67a4ff70093396e1ceae9c76cf4bbb"
             ],
             "version": "==18.2.0"
-        },
-        "basicmath": {
-            "editable": true,
-            "path": "./../lib/basicmath"
         },
         "more-itertools": {
             "hashes": [
